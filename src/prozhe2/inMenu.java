@@ -114,7 +114,7 @@ public class inMenu extends javax.swing.JDialog {
                         menubutton.addActionListener((ActionEvent e) -> {
 
                               this.dispose();
-                              ap a = new ap();
+                              Mainmenu a = new Mainmenu();
                               a.setVisible(true);
                               
         }); 
@@ -124,7 +124,7 @@ public class inMenu extends javax.swing.JDialog {
           loginbutton.addActionListener((ActionEvent e) -> {
                 
                  this.dispose();
-                 loginmenu login = new loginmenu();
+                 Loginmenuu login = new Loginmenuu();
                  login.setVisible(true);
              }); 
     }//GEN-LAST:event_loginbuttonActionPerformed

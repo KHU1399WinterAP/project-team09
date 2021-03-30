@@ -100,7 +100,7 @@ public class Dashboard extends javax.swing.JFrame {
 
     private void exitbuttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitbuttonActionPerformed
         this.dispose();
-        ap a = new ap();
+        Mainmenu a = new Mainmenu();
         a.setVisible(true);
     }//GEN-LAST:event_exitbuttonActionPerformed
 

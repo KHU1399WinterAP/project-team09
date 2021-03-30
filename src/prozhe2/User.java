@@ -1,6 +1,8 @@
 
 package prozhe2;
 
+import java.util.Objects;
+
 public class User {
     
     public String username;
@@ -20,10 +22,5 @@ public class User {
         return "User{" + "username=" + username + ", password=" + password + '}';
     }
 
-
-   
-   
-  
-    
-    
+ 
 }
