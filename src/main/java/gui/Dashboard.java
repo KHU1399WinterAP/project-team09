@@ -3,7 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prozhe2;
+package main.java.gui;
+import main.java.config.Databaseconfig;
+import main.java.models.User;
+import main.java.database.Database;
+import main.java.app.Main;
+import main.java.gui.*;
 
 /**
  *
@@ -75,7 +80,7 @@ public class Dashboard extends javax.swing.JFrame {
         });
         jPanel2.add(exitbutton, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 360, 100, 30));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/prozhe2/images/sdsd.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/main/java/gui/images/rocket.png"))); // NOI18N
         jPanel2.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -100,7 +105,7 @@ public class Dashboard extends javax.swing.JFrame {
 
     private void exitbuttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitbuttonActionPerformed
         this.dispose();
-        ap a = new ap();
+        Mainmenu a = new Mainmenu();
         a.setVisible(true);
     }//GEN-LAST:event_exitbuttonActionPerformed
 

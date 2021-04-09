@@ -1,9 +1,12 @@
-package prozhe2;
+package main.java.database;
 
 
 
-
-import prozhe2.config.Databaseconfig;
+import main.java.config.Databaseconfig;
+import main.java.models.User;
+import main.java.database.Database;
+import main.java.app.Main;
+import main.java.gui.*;
 import java.sql.Connection;
 
 import java.sql.DriverManager;

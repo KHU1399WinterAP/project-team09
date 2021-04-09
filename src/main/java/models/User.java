@@ -1,5 +1,12 @@
 
-package prozhe2;
+package main.java.models;
+
+import java.util.Objects;
+import main.java.config.Databaseconfig;
+import main.java.models.User;
+import main.java.database.Database;
+import main.java.app.Main;
+import main.java.gui.*;
 
 public class User {
     
@@ -20,10 +27,5 @@ public class User {
         return "User{" + "username=" + username + ", password=" + password + '}';
     }
 
-
-   
-   
-  
-    
-    
+ 
 }

@@ -1,5 +1,10 @@
 
-package prozhe2;
+package main.java.gui;
+import main.java.config.Databaseconfig;
+import main.java.models.User;
+import main.java.database.Database;
+import main.java.app.Main;
+import main.java.gui.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -114,7 +119,7 @@ public class inMenu extends javax.swing.JDialog {
                         menubutton.addActionListener((ActionEvent e) -> {
 
                               this.dispose();
-                              ap a = new ap();
+                              Mainmenu a = new Mainmenu();
                               a.setVisible(true);
                               
         }); 
@@ -124,7 +129,7 @@ public class inMenu extends javax.swing.JDialog {
           loginbutton.addActionListener((ActionEvent e) -> {
                 
                  this.dispose();
-                 loginmenu login = new loginmenu();
+                 Loginmenuu login = new Loginmenuu();
                  login.setVisible(true);
              }); 
     }//GEN-LAST:event_loginbuttonActionPerformed

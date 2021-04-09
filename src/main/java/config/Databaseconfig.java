@@ -1,5 +1,10 @@
 
-package prozhe2.config;
+package main.java.config;
+import main.java.config.Databaseconfig;
+import main.java.models.User;
+import main.java.database.Database;
+import main.java.app.Main;
+import main.java.gui.*;
 
 
 public class Databaseconfig {
