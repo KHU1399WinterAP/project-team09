@@ -19,45 +19,30 @@
 
 ![rocket](https://user-images.githubusercontent.com/77240820/123420545-ebbedc80-d5d0-11eb-8436-0564cb67f744.png)
 
+use "W" & "S" for left paddel in pong and Up arrow & Down arrow for right paddle.
 
+use Up and Down and Right and Left to move snake in maar game.
 
+enshaalah to enjoy.
 
+-----
+# Team 09
+- # TA :
 
+  - [Bijan Eisapour](https://github.com/BijanKHU)
 
+- # Team Member :
+ 
+  - [mohammad ali mojtahed soleimani](https://github.com/mohammadalimojtahedsoleimani) 992023039
+-----
 
+ Libraries :
+-
+ * jaco-mp3-player-0.9.3 ( [**download**](https://sourceforge.net/projects/jacomp3player/files/older%20versions/jaco-mp3-player-0.9.3.zip/download) )<br>
+   - This library is used to play the music in the app.
+ * mysql-connector-java-8.0.23 ( [**download**](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.23) ) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-----
 
 
 
@@ -75,3 +60,5 @@
 <a href="https://github.com/mohammadalimojtahedsoleimani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadalimojtahedsoleimani&show_icons=true&theme=light&line_height=27" alt="ali's github stats"/>
 </a>
+
+NEVER GIVE UP
