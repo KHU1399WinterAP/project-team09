@@ -12,6 +12,10 @@
 <br/>
 
 - 🌱 I’m currently learning more about Java.
+- 😄 Student of kharazmi university
+
+-----
+
 
 ### Spotify Playing 🎧
 
