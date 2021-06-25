@@ -38,8 +38,7 @@ enshaalah to enjoy.
 
  Libraries :
 -
- * jaco-mp3-player-0.9.3 ( [**download**](https://sourceforge.net/projects/jacomp3player/files/older%20versions/jaco-mp3-player-0.9.3.zip/download) )<br>
-   - This library is used to play the music in the app.
+ 
  * mysql-connector-java-8.0.23 ( [**download**](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.23) ) 
 
 -----
