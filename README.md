@@ -1,4 +1,4 @@
-## hello, I'm ali soleimani!
+## hello, I'm ali soleimani! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 <a href="https://t.me/mamali_amazon">
   <img align="left" alt="ali's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
