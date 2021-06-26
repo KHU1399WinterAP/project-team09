@@ -52,11 +52,7 @@ enshaalah to enjoy.
 
 -----
 
-## Build instructions
 
-* Visual Studio 2019 [(32 bits)][msvc32] [(64 bits)][msvc64]
-
------
 
 
 
